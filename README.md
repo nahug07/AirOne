@@ -1,3 +1,8 @@
+<img
+  style="padding: 1em"
+  src="https://flybondi.com/assets/images/logo.svg" height="80" 
+/>
+
 # Code challenge
 
 Hola!
@@ -30,6 +35,14 @@ El dataset con la información necesaria para realizar las búsquedas tiene el s
 ```
 
 Podés (¡y te invitamos a que lo hagas!) hacer las preguntas que sean necesarias para evacuar todas tus dudas sobre el enunciado, escribiendo a producto@flybondi.com.
+
+[logo]: https://pbs.twimg.com/profile_images/880421598917951488/wglh361n_400x400.jpg
+[flybondi]: https://www.flybondi.com
+
+
+----
+
+----
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
